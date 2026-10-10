@@ -22,7 +22,7 @@ python -m pip install -e ".[ml]"        # CRF切分器，需自行训练可信�
 python -m pip install -e ".[all,dev]"   # 全部功能与测试工具
 ```
 
-目前仅计划发布 GitHub 源码；没有声称已经发布到 PyPI。
+当前仅在 GitHub 发布源码，尚未发布到 PyPI。
 
 ## 快速开始
 
